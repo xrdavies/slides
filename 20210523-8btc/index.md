@@ -295,7 +295,7 @@ https://parallel.fi
 ---
 ### Parallel
 
-![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/teams/22-Parallel/images/work_flow_of_Parallel.png)  
+![](https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/work_flow_of_Parallel.jpg)  
 
 ---
 ### SkyePass
