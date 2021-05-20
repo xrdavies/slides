@@ -17,14 +17,9 @@ editor:
     theme: solarized_light
     # keybinding: vim
 ---
+<!-- .slide: data-background="https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/bg.jpg" -->
 ## Web3 的繁荣时代 - 跨链
 ## 波卡以来
-
-<!-- .slide: data-background="https://avatars.githubusercontent.com/u/1884084?v=4" -->
-
-
-
-![](://avatars.githubusercontent.com/u/1884084?v=4)
 
 By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="false" >@Frozen</a> on Github
 
