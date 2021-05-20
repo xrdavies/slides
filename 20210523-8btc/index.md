@@ -255,16 +255,47 @@ http://polkadot.network
 ---
 ### Apron Network
 
+![](https://raw.githubusercontent.com/Apron-Network/branding/main/256x256.png)  
+
+https://apron.network  
+
+一个去中心化的平台，为DApp开发者、DApp用户和运营商提供基础设施服务。  
+
+---
+### Apron Network  
+
+![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/teams/09-Apron-Network/docs/image2.png)  
+
 ---
 ### InkBridge
 
----
-### Deeper Network
+https://github.com/Ink-Bridge  
 
+InkBridge 使用Wasm合约技术构建转接桥。可以部署到所有支持Wasm合约的平行链，把多条公链(BTC, ETH等)的转接桥下沉为平台，而不是单一应用。社区项目方可以调用合约形态存在的已有功能，还可以使用合约改造已有功能。我们仅提供转接桥的基础功能，支持自定义格式的跨链交易验证，交由上层应用自由发挥产品。  
+
+---
+### InkBridge
+
+![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/teams/26-InkBridge/docs/pic/1.png)  
+
+---
+### Deeper Network  
+
+https://deeper.network  
+
+Deeper Network致力于构建真正的去中心化因特网和安全网关。它旨在为每个家庭带来更好的互联网体验，并成为用户通往Web 3.0 应用的入口。Deeper的愿景是将网络安全性，网络共享和区块链技术相结合，创建一个更安全，更自由，更快的去中心化网络。
 
 ---
 ### Parallel
 
+https://parallel.fi  
+
+大量的DOT\KSM代币持有者有这样的实际需求：即通过质押赚取利息，又能一定程度上拥有代币流动性。然而目前市场上并没有一套成熟的解决方案。 Parallel Finance旨在基于polkadot生态系统构建一套先进的、最大的借贷协议；在提供借贷功能的基础上，我们允许用户同时从质押和借贷中赚取"double interests"。
+
+---
+### Parallel
+
+![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/teams/22-Parallel/images/work_flow_of_Parallel.png)  
 
 ---
 ### SkyePass
