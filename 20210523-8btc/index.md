@@ -18,7 +18,7 @@ editor:
     # keybinding: vim
 
 ---
-<!-- .slide: data-background="https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/bg.jpg" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/bg_polkadot.jpg" -->
 ## Web3 的繁荣时代
 ## 波卡以来
 
