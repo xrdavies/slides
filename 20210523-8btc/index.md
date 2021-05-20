@@ -103,18 +103,23 @@ The time is gone, the song is over, Thought I’d something more to say.
 - Data (数据)
 
 ---
-### Web3基金会、Parity和Polkadot
+### Web3基金会、Parity和Polkadot  
+
 - Parity  
 - Polkadot  
 - Web3 基金会  
 
 ---
-### Parity
+### Parity  
+
+![](https://www.parity.io/assets/img/logos/logo-parity-light.png)  
 
 Parity是由Gavin Wood在离开以太坊后创立的科技公司，持续在区块链领域创造新的技术。  
 
 ---
 ### Web3基金会
+
+![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
 Web3基金会的创建是为了培育和管理去中心化网络软件协议领域的技术和应用，特别是那些利用现代密码学方法来保障去中心化的技术和应用，以利于Web3生态系统的稳定。  
 
@@ -124,6 +129,8 @@ Web3基金会的创建是为了培育和管理去中心化网络软件协议领�
 ---
 ### Web3基金会  
 
+![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
+
 Web3基金会的信念  
 
 * 用户拥有自己的数据，而不是公司  
@@ -132,6 +139,8 @@ Web3基金会的信念
 
 ---
 ### Web3基金会
+
+![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
 Web3基金会以资助或其他方式协助符合其使命的项目的发展和部署。  
 
