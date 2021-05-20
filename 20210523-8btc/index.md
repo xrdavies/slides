@@ -48,8 +48,6 @@ By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="fals
 ---
 
 ## Web3 时代关键先生
-
-
 Vitalik Buterin  
 ![](https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4.jpg)   
 https://vitalik.ca
@@ -68,8 +66,42 @@ https://www.gavwood.com
 [以太坊黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf)@2014  
 [Dapp:Web3看起来会是什么样子](https://www.gavwood.com/dappsweb3.html)@2014  
 [什么是Web3?](https://www.gavwood.com/web3lt.html)@2014  
-[Parity Tech](https://www.parity.io)  
+[Parity Tech](https://www.parity.io)@2016  
 [Polkadot](http://polkadot.network)@2016
+
+---
+
+## Web3 时代关键先生
+
+The time is gone, the song is over, Thought I’d something more to say.  
+[最后的博客](https://blog.ethereum.org/2016/01/11/last-blog-post/)@Jan 11,2016  
+[So Ethereum is released](https://gavofyork.medium.com/so-ethereum-is-released-4291da46b770)@Feb 17,2016  
+
+---
+
+## 三大支柱
+
+- Identity (身份)
+- Assets (资产)
+- Data (数据)
+
+---
+
+## Identity (身份)
+
+- Identity (身份)
+
+---
+
+## Assets (资产)
+
+- Assets (资产)
+
+---
+
+## Data (数据)
+
+- Data (数据)
 
 ---
 
