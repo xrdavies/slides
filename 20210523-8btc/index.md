@@ -76,7 +76,7 @@ https://www.gavwood.com
 The time is gone, the song is over, Thought I’d something more to say.  
 
 [< 最后的博客 >](https://blog.ethereum.org/2016/01/11/last-blog-post/)@Jan 11,2016  
-[< So Ethereum is released >](https://gavofyork.medium.com/so-ethereum-is-released-4291da46b770)@Feb 17,2016  
+[< So Ethereum is released >](https://gavofyork.medium.com/so-ethereum-is-released-4291da46b770)@Dec 13,2015  
 [< Parity Tech >](https://www.parity.io)@2016  
 
 ---
@@ -90,7 +90,34 @@ The time is gone, the song is over, Thought I’d something more to say.
 ---
 ## Identity (身份) + Assets (资产) + Data (数据)
 
-无限可能  
+无限可能
+
+---
+## Data（数据）+ Assets（资产）
+
+* Asset Classification
+* Insurance
+* Pegged Currency
+* Gaming
+* ...
+
+---
+## Assets（资产）+ Identity（身份）
+
+* Cerfitication
+* Asset Tracking
+* Judged-Escrow
+* Bonded Identity
+* ...
+
+---
+## Identity（身份）+ Data（数据）
+
+* Reputation
+* Badges
+* Oracles
+* ...
+
 
 ---
 ### Web3基金会、Parity和Polkadot  
@@ -167,6 +194,7 @@ http://polkadot.network
 2020年6月18日 NPoS共识启用  
 2020年7月20日 超级权限Sudo移除  
 2020年8月21日 DOT拆分  
+2021年5月18日 平行链准备启动
 
 ---
 ### Polkadot的特性
@@ -179,6 +207,7 @@ http://polkadot.network
 
 ---
 ### Polkadot架构
+在波卡中
 
 ---
 ### 中继链
@@ -199,25 +228,29 @@ http://polkadot.network
 - Rococo
 - Chachacha
 
+以上网络有什么区别？
+
 ---
 ### 国库
 
-* Bounty
-
-
-* Tips
+* 国库是什么？
+* 什么是 Bounty？
+* 什么是 Tips？
 
 ---
 ### Web3 Open Grants
-
+* 什么是 Open Grants？
+* 有哪些项目拿到 Open Grants？
 
 ---
 ### Web3 General Grants
-
+* 什么是 General Grants？
+* 有哪些项目拿到 General Grants？
 
 ---
 ### Substrate Builder Program
-
+* 什么是 SBP?
+* 现在有哪些项目属于 SBP 项目？
 
 ---
 ### 插槽拍卖
@@ -226,23 +259,31 @@ http://polkadot.network
 ### 众贷 Cowdloan
 
 ---
-### 典型项目
+### 代表项目
 * Acala
 * Moonbeam
 * Phala
 * 
 
 ---
-### 黑客马拉松
+### 黑客马拉松  
+
+亚洲赛区诞生五个获奖项目  
+
+![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/assets/01-announcement/01.png)  
 
 ---
 ### 第一届黑客马拉松获奖项目  
 
-* Apron Network
-* InkBridge
-* Deeper Network
-* Parallel
-* SkyePass
+* Apron Network  
+
+* InkBridge  
+
+* Deeper Network  
+
+* Parallel  
+
+* SkyePass  
 
 ---
 ### Apron Network
