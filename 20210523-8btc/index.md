@@ -227,6 +227,32 @@ Polkadot的主要开发团队来自于Parity。
 ---
 ### 黑客马拉松
 
+---
+### 第一届黑客马拉松获奖项目  
+
+* Apron Network
+* InkBridge
+* Deeper Network
+* Parallel
+* SkyePass
+
+---
+### Apron Network
+
+---
+### InkBridge
+
+---
+### Deeper Network
+
+
+---
+### Parallel
+
+
+---
+### SkyePass
+
 
 ---
 ### 获取信息的方式
