@@ -64,19 +64,20 @@ https://www.gavwood.com
 ---
 
 ## Web3 时代关键先生
-[<以太坊黄皮书>](https://ethereum.github.io/yellowpaper/paper.pdf)@2014  
-[<Solidity>]()
-[<Dapp:Web3看起来会是什么样子>](https://www.gavwood.com/dappsweb3.html)@2014  
-[<什么是Web3?>](https://www.gavwood.com/web3lt.html)@2014  
+[< 以太坊黄皮书 >](https://ethereum.github.io/yellowpaper/paper.pdf)@2014  
+[< Solidity >]()  
+[< Dapp:Web3看起来会是什么样子 >](https://www.gavwood.com/dappsweb3.html)@2014  
+[< 什么是Web3? >](https://www.gavwood.com/web3lt.html)@2014  
 
 ---
 
 ## Web3 时代关键先生
 
 The time is gone, the song is over, Thought I’d something more to say.  
-[<最后的博客>](https://blog.ethereum.org/2016/01/11/last-blog-post/)@Jan 11,2016  
-[<So Ethereum is released>](https://gavofyork.medium.com/so-ethereum-is-released-4291da46b770)@Feb 17,2016  
-[<Parity Tech>](https://www.parity.io)@2016  
+
+[< 最后的博客 >](https://blog.ethereum.org/2016/01/11/last-blog-post/)@Jan 11,2016  
+[< So Ethereum is released >](https://gavofyork.medium.com/so-ethereum-is-released-4291da46b770)@Feb 17,2016  
+[< Parity Tech >](https://www.parity.io)@2016  
 
 ---
 
