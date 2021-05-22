@@ -65,6 +65,7 @@ https://www.gavwood.com
 
 ## Web3 时代关键先生
 [< 以太坊黄皮书 >](https://ethereum.github.io/yellowpaper/paper.pdf)@2014  
+[< Ethereum C++ >]()
 [< Solidity >]()  
 [< Dapp:Web3看起来会是什么样子 >](https://www.gavwood.com/dappsweb3.html)@2014  
 [< 什么是Web3? >](https://www.gavwood.com/web3lt.html)@2014  
@@ -120,7 +121,6 @@ The time is gone, the song is over, Thought I’d something more to say.
 
 
 ---
-### Web3基金会、Parity和Polkadot  
 
 - Parity  
 - Polkadot  
@@ -141,6 +141,7 @@ Parity是由Gavin Wood在离开以太坊后创立的科技公司，持续在区�
 Web3基金会的创建是为了培育和管理去中心化网络软件协议领域的技术和应用，特别是那些利用现代密码学方法来保障去中心化的技术和应用，以利于Web3生态系统的稳定。  
 
 使命是培育去中心化网络软件协议的尖端应用。  
+
 热情是提供Web 3.0，一个去中心化和公平的互联网，用户控制自己的数据、身份和命运。  
 
 ---
@@ -161,18 +162,10 @@ Web3基金会的信念
 
 Web3基金会以资助或其他方式协助符合其使命的项目的发展和部署。  
 
-* 创新的区块链技术，加密的信息传递协议
-* 点对点网络基础设施（如libp2p和devp2p）
-* 密码经济机制（如DAC/DAO）
-* 数据发布系统（如IPFS）
-
----
-## Polkadot
-
-![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
-
-Polkadot是Web3基金会发起的下一代区块链协议，它将整个特制的区块链网络联合起来，使它们能够大规模无缝地共同运作。  
-Polkadot的主要开发团队来自于Parity。
+* 创新的区块链技术，加密的信息传递协议  
+* 点对点网络基础设施（如libp2p和devp2p）  
+* 密码经济机制（如DAC/DAO）  
+* 数据发布系统（如IPFS）  
 
 ---
 ## Polkadot
@@ -181,7 +174,21 @@ Polkadot的主要开发团队来自于Parity。
 
 "互联网宛若一个巨婴，它已经衰老，却从未长大" - 加文-伍德  
 
+---
+## Polkadot
+
+![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
+
 "Polkadot使个人有能力对抗更强大的公司和国家行为者"。- 加文-伍德  
+
+---
+## Polkadot
+
+![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
+
+Polkadot是Web3基金会发起的下一代区块链协议，它将整个特制的区块链网络联合起来，使它们能够大规模无缝地共同运作。  
+
+Polkadot的主要开发团队来自于Parity。
 
 ---
 ## Polkadot历史
@@ -194,7 +201,7 @@ http://polkadot.network
 2020年6月18日 NPoS共识启用  
 2020年7月20日 超级权限Sudo移除  
 2020年8月21日 DOT拆分  
-2021年5月18日 平行链准备启动
+2021年5月18日 平行链准备启动  
 
 ---
 ## Polkadot的特性
@@ -207,7 +214,15 @@ http://polkadot.network
 
 ---
 ## Polkadot架构
-在波卡中
+在系统架构上有三个组件划分  
+
+- 中继链（Relay Chain）  
+- 平行链（Parachains）  
+- 桥（Bridges）  
+
+---
+
+<!-- .slide: data-background="https://image.readblocks.com/uploads/2020/10/image-223.png" -->
 
 ---
 ## 中继链
