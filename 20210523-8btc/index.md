@@ -268,7 +268,8 @@ http://polkadot.network
 ---
 ### 黑客马拉松  
 
-亚洲赛区诞生五个获奖项目  
+第一届黑客马拉松  
+诞生五个获奖项目  
 
 ![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/assets/01-announcement/01.png)  
 
@@ -343,10 +344,28 @@ SkyePass是一个免费的、开源的、可扩展的和分散的密码管理器
 
 ![](https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/skyepass.png)  
 
+
+---
+### 如何抹平信息差
+- 参与其中
+- 增加信息来源
+- 交流、学习
+
+---
+### 参与其中
+举办Meetup https://www.meetup.com/pro/polkadot  
+成为波卡大使 https://polkadot.network/polkadot-ambassador-program/  
+参与项目开发 https://github.com/paritytech/  
+...  
+
 ---
 ### 获取信息的方式
-参加和举办Meetup https://www.meetup.com/pro/polkadot  
-成为波卡大使 https://polkadot.network/polkadot-ambassador-program/  
+Parity官网 
+Gavin Wood
+
+---
+### 交流、学习
+
 
 ---
 ### 相关信息
