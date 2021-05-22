@@ -37,6 +37,7 @@ By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="fals
 
 ---
 # 目录
+
 - Web3 时代的背景和关键先生
 - 波卡的愿景、理念和解决的问题
 - Web3 基金会、Parity 和波卡的情缘
@@ -49,6 +50,7 @@ By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="fals
 ---
 
 ## Web3 时代关键先生
+
 Vitalik Buterin  
 ![](https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4.jpg)   
 https://vitalik.ca
@@ -64,6 +66,7 @@ https://www.gavwood.com
 ---
 
 ## Web3 时代关键先生
+
 [< 以太坊黄皮书 >](https://ethereum.github.io/yellowpaper/paper.pdf)@2014  
 [< Ethereum C++ >]()
 [< Solidity >]()  
@@ -87,11 +90,6 @@ The time is gone, the song is over, Thought I’d something more to say.
 - Identity (身份)
 - Assets (资产)
 - Data (数据)
-
----
-## 身份 + 资产 + 数据
-
-无限可能
 
 ---
 ## 数据 + 资产
@@ -214,6 +212,7 @@ http://polkadot.network
 
 ---
 ## Polkadot架构
+
 在系统架构上有三个组件划分  
 
 - 中继链（Relay Chain）  
@@ -225,17 +224,24 @@ http://polkadot.network
 <!-- .slide: data-background="https://image.readblocks.com/uploads/2020/10/image-223.png" -->
 
 ---
-## 中继链
+## Polkadot架构
+
+在整个生态系统中角色分为4种  
+
+- 验证者（Validators）  
+- 提名者（Nominators）  
+- 收集者（Collators)
+- “钓鱼”者（Fishermen）  
 
 ---
-## 中继链
-
-
----
-## 平行链
+<!-- .slide: data-background="https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/4_roles.png" -->
 
 ---
-## 平行链
+## 代表性平行链
+* Acala
+* Moonbeam
+* Phala
+
 
 ---
 ## 先行者
@@ -272,13 +278,6 @@ http://polkadot.network
 
 ---
 ## 众贷 Cowdloan
-
----
-## 代表项目
-* Acala
-* Moonbeam
-* Phala
-* 
 
 ---
 ## 黑客马拉松  
