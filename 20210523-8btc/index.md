@@ -36,7 +36,6 @@ By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="fals
 </style>
 
 ---
-# 目录
 
 - Web3 时代的背景和关键先生
 - 波卡的愿景、理念和解决的问题
@@ -65,7 +64,7 @@ https://www.gavwood.com
 
 ---
 
-## Web3 时代关键先生
+### Web3 时代关键先生
 
 [< 以太坊黄皮书 >](https://ethereum.github.io/yellowpaper/paper.pdf)@2014  
 [< Ethereum C++ >]()
@@ -75,7 +74,7 @@ https://www.gavwood.com
 
 ---
 
-## Web3 时代关键先生
+### Web3 时代关键先生
 
 The time is gone, the song is over, Thought I’d something more to say.  
 
@@ -119,20 +118,19 @@ The time is gone, the song is over, Thought I’d something more to say.
 
 
 ---
+## 三个机构
 
 - Parity  
 - Polkadot  
 - Web3 基金会  
 
 ---
-## Parity  
 
 ![](https://www.parity.io/assets/img/logos/logo-parity-light.png)  
 
 Parity是由Gavin Wood在离开以太坊后创立的科技公司，持续在区块链领域创造新的技术。  
 
 ---
-## Web3基金会
 
 ![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
@@ -168,7 +166,7 @@ Web3基金会以资助或其他方式协助符合其使命的项目的发展和�
 * 数据发布系统（如IPFS）  
 
 ---
-## Polkadot
+### Polkadot
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
@@ -233,11 +231,38 @@ http://polkadot.network
 <!-- .slide: data-background="https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/4_roles.png" -->
 
 ---
+### Substrate
+
+- 什么是Substrate?
+- Polkadoth 和 Substrate的关系
+
+---
+
+Substrate的模块化设计意味着你可以在构建最重要的自定义组件时重复使用经过战斗检验的库。
+
+---
+
+使用Substrate的FRAME运行时系统来构建安全、可扩展的区块链逻辑  
+
+---
+
+使用Polkadot-JS为任何基于Substrate的产业链创建丰富的用户体验  
+
+---
+
+底层支持多种智能合约平台，包括EVM （通过 Frontier / Moonbeam）
+
+---
+
+Substrate为下一代异构的多链网络Polkadot提供技术支撑  
+
+Polkadot生态系统中的大多数区块链也都建立在Substrate上，尤其是平行链基本都是基于cumulus  
+
+---
 ## 代表性平行链
 * Acala
 * Moonbeam
 * Phala
-
 
 ---
 ## 先行者
@@ -259,8 +284,11 @@ http://polkadot.network
 * 什么是 Open Grants？
 * 有哪些项目拿到 Open Grants？
 
+https://github.com/w3f/General-Grants-Program/blob/master/grants/accepted_grant_applications.md
+
 ---
 ## Web3 General Grants
+
 * 什么是 General Grants？
 * 有哪些项目拿到 General Grants？
 
@@ -269,11 +297,10 @@ http://polkadot.network
 * 什么是 SBP?
 * 现在有哪些项目属于 SBP 项目？
 
----
-## 插槽拍卖
+https://www.parity.io/blog/  
 
 ---
-## 众贷 Cowdloan
+## 插槽拍卖和众贷
 
 ---
 ## 黑客马拉松  
