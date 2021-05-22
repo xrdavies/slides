@@ -88,12 +88,12 @@ The time is gone, the song is over, Thought I’d something more to say.
 - Data (数据)
 
 ---
-## Identity (身份) + Assets (资产) + Data (数据)
+## 身份 + 资产 + 数据
 
 无限可能
 
 ---
-## Data（数据）+ Assets（资产）
+## 数据 + 资产
 
 * Asset Classification
 * Insurance
@@ -102,7 +102,7 @@ The time is gone, the song is over, Thought I’d something more to say.
 * ...
 
 ---
-## Assets（资产）+ Identity（身份）
+## 资产 + Identity
 
 * Cerfitication
 * Asset Tracking
@@ -111,7 +111,7 @@ The time is gone, the song is over, Thought I’d something more to say.
 * ...
 
 ---
-## Identity（身份）+ Data（数据）
+## 身份 + 数据
 
 * Reputation
 * Badges
@@ -127,14 +127,14 @@ The time is gone, the song is over, Thought I’d something more to say.
 - Web3 基金会  
 
 ---
-### Parity  
+## Parity  
 
 ![](https://www.parity.io/assets/img/logos/logo-parity-light.png)  
 
 Parity是由Gavin Wood在离开以太坊后创立的科技公司，持续在区块链领域创造新的技术。  
 
 ---
-### Web3基金会
+## Web3基金会
 
 ![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
@@ -144,7 +144,7 @@ Web3基金会的创建是为了培育和管理去中心化网络软件协议领�
 热情是提供Web 3.0，一个去中心化和公平的互联网，用户控制自己的数据、身份和命运。  
 
 ---
-### Web3基金会  
+## Web3基金会  
 
 ![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
@@ -155,7 +155,7 @@ Web3基金会的信念
 * 信息和价值的在线交流是去中心化的  
 
 ---
-### Web3基金会
+## Web3基金会
 
 ![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
@@ -167,7 +167,7 @@ Web3基金会以资助或其他方式协助符合其使命的项目的发展和�
 * 数据发布系统（如IPFS）
 
 ---
-### Polkadot
+## Polkadot
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
@@ -175,7 +175,7 @@ Polkadot是Web3基金会发起的下一代区块链协议，它将整个特制�
 Polkadot的主要开发团队来自于Parity。
 
 ---
-### Polkadot
+## Polkadot
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
@@ -184,7 +184,7 @@ Polkadot的主要开发团队来自于Parity。
 "Polkadot使个人有能力对抗更强大的公司和国家行为者"。- 加文-伍德  
 
 ---
-### Polkadot历史
+## Polkadot历史
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
@@ -197,7 +197,7 @@ http://polkadot.network
 2021年5月18日 平行链准备启动
 
 ---
-### Polkadot的特性
+## Polkadot的特性
 
 - 混合分片
 - 无缝扩容
@@ -206,24 +206,24 @@ http://polkadot.network
 - 跨链组合
 
 ---
-### Polkadot架构
+## Polkadot架构
 在波卡中
 
 ---
-### 中继链
+## 中继链
 
 ---
-### 中继链
+## 中继链
 
 
 ---
-### 平行链
+## 平行链
 
 ---
-### 平行链
+## 平行链
 
 ---
-### 先行者
+## 先行者
 - Kusama
 - Rococo
 - Chachacha
@@ -231,42 +231,42 @@ http://polkadot.network
 以上网络有什么区别？
 
 ---
-### 国库
+## 国库
 
 * 国库是什么？
 * 什么是 Bounty？
 * 什么是 Tips？
 
 ---
-### Web3 Open Grants
+## Web3 Open Grants
 * 什么是 Open Grants？
 * 有哪些项目拿到 Open Grants？
 
 ---
-### Web3 General Grants
+## Web3 General Grants
 * 什么是 General Grants？
 * 有哪些项目拿到 General Grants？
 
 ---
-### Substrate Builder Program
+## Substrate Builder Program
 * 什么是 SBP?
 * 现在有哪些项目属于 SBP 项目？
 
 ---
-### 插槽拍卖
+## 插槽拍卖
 
 ---
-### 众贷 Cowdloan
+## 众贷 Cowdloan
 
 ---
-### 代表项目
+## 代表项目
 * Acala
 * Moonbeam
 * Phala
 * 
 
 ---
-### 黑客马拉松  
+## 黑客马拉松  
 
 第一届黑客马拉松  
 诞生五个获奖项目  
@@ -274,7 +274,7 @@ http://polkadot.network
 ![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/assets/01-announcement/01.png)  
 
 ---
-### 第一届黑客马拉松获奖项目  
+## 第一届黑客马拉松获奖项目  
 
 * Apron Network  
 
@@ -287,7 +287,7 @@ http://polkadot.network
 * SkyePass  
 
 ---
-### Apron Network
+## Apron Network
 
 ![](https://raw.githubusercontent.com/Apron-Network/branding/main/256x256.png)  
 
@@ -296,43 +296,43 @@ http://polkadot.network
 一个去中心化的平台，为DApp开发者、DApp用户和运营商提供基础设施服务。  
 
 ---
-### Apron Network  
+## Apron Network  
 
 ![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/teams/09-Apron-Network/docs/image2.png)  
 
 ---
-### InkBridge
+## InkBridge
 
 官网 https://github.com/Ink-Bridge  
 
 InkBridge 使用Wasm合约技术构建转接桥。可以部署到所有支持Wasm合约的平行链，把多条公链(BTC, ETH等)的转接桥下沉为平台，而不是单一应用。社区项目方可以调用合约形态存在的已有功能，还可以使用合约改造已有功能。我们仅提供转接桥的基础功能，支持自定义格式的跨链交易验证，交由上层应用自由发挥产品。  
 
 ---
-### InkBridge
+## InkBridge
 
 ![](https://github.com/ParityAsia/hackathon-2021-spring/raw/main/teams/26-InkBridge/docs/pic/1.png)  
 
 ---
-### Deeper Network  
+## Deeper Network  
 
 https://deeper.network  
 
 Deeper Network致力于构建真正的去中心化因特网和安全网关。它旨在为每个家庭带来更好的互联网体验，并成为用户通往Web 3.0 应用的入口。Deeper的愿景是将网络安全性，网络共享和区块链技术相结合，创建一个更安全，更自由，更快的去中心化网络。
 
 ---
-### Parallel
+## Parallel
 
 官网 https://parallel.fi  
 
 大量的DOT\KSM代币持有者有这样的实际需求：即通过质押赚取利息，又能一定程度上拥有代币流动性。然而目前市场上并没有一套成熟的解决方案。 Parallel Finance旨在基于polkadot生态系统构建一套先进的、最大的借贷协议；在提供借贷功能的基础上，我们允许用户同时从质押和借贷中赚取"double interests"。
 
 ---
-### Parallel
+## Parallel
 
 ![](https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/work_flow_of_Parallel.jpg)  
 
 ---
-### SkyePass
+## SkyePass
 
 官网 https://skye.kiwi  
 
@@ -340,26 +340,26 @@ SkyePass是一个免费的、开源的、可扩展的和分散的密码管理器
 
 
 ---
-### SkyePass
+## SkyePass
 
 ![](https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/skyepass.png)  
 
 
 ---
-### 如何抹平信息差
+## 如何抹平信息差
 - 参与其中
 - 增加信息来源
 - 交流、学习
 
 ---
-### 参与其中
+## 参与其中
 举办Meetup https://www.meetup.com/pro/polkadot  
 成为波卡大使 https://polkadot.network/polkadot-ambassador-program/  
 参与项目开发 https://github.com/paritytech/  
 ...  
 
 ---
-### 获取信息的方式
+## 获取信息的方式
 Parity官网 
 Gavin Wood
 
