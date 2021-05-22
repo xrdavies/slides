@@ -138,12 +138,15 @@ Parity是由Gavin Wood在离开以太坊后创立的科技公司，持续在区�
 
 Web3基金会的创建是为了培育和管理去中心化网络软件协议领域的技术和应用，特别是那些利用现代密码学方法来保障去中心化的技术和应用，以利于Web3生态系统的稳定。  
 
+---
+
+![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
+
 使命是培育去中心化网络软件协议的尖端应用。  
 
 热情是提供Web 3.0，一个去中心化和公平的互联网，用户控制自己的数据、身份和命运。  
 
 ---
-## Web3基金会  
 
 ![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
@@ -154,7 +157,6 @@ Web3基金会的信念
 * 信息和价值的在线交流是去中心化的  
 
 ---
-## Web3基金会
 
 ![](https://cdn-images-1.medium.com/max/302/1*loJwWmROya0qbZJRoOM5kQ@2x.png)  
 
@@ -173,14 +175,12 @@ Web3基金会以资助或其他方式协助符合其使命的项目的发展和�
 "互联网宛若一个巨婴，它已经衰老，却从未长大" - 加文-伍德  
 
 ---
-## Polkadot
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
 "Polkadot使个人有能力对抗更强大的公司和国家行为者"。- 加文-伍德  
 
 ---
-## Polkadot
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
@@ -189,7 +189,6 @@ Polkadot是Web3基金会发起的下一代区块链协议，它将整个特制�
 Polkadot的主要开发团队来自于Parity。
 
 ---
-## Polkadot历史
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
@@ -202,7 +201,6 @@ http://polkadot.network
 2021年5月18日 平行链准备启动  
 
 ---
-## Polkadot的特性
 
 - 混合分片
 - 无缝扩容
@@ -211,7 +209,6 @@ http://polkadot.network
 - 跨链组合
 
 ---
-## Polkadot架构
 
 在系统架构上有三个组件划分  
 
@@ -224,7 +221,6 @@ http://polkadot.network
 <!-- .slide: data-background="https://image.readblocks.com/uploads/2020/10/image-223.png" -->
 
 ---
-## Polkadot架构
 
 在整个生态系统中角色分为4种  
 
