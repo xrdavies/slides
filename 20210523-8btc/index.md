@@ -170,13 +170,17 @@ Web3基金会以资助或其他方式协助符合其使命的项目的发展和�
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
-"互联网宛若一个巨婴，它已经衰老，却从未长大" - 加文-伍德  
+"互联网宛若一个巨婴，它已经衰老，却从未长大"  
+
+by 加文-伍德  
 
 ---
 
 ![](https://polkadot.network/assets/img/logo-polkadot-light.svg)  
 
-"Polkadot使个人有能力对抗更强大的公司和国家行为者"。- 加文-伍德  
+"Polkadot使个人有能力对抗强大的公司和国家行为"  
+
+by 加文-伍德  
 
 ---
 
@@ -259,12 +263,6 @@ Substrate为下一代异构的多链网络Polkadot提供技术支撑
 Polkadot生态系统中的大多数区块链也都建立在Substrate上，尤其是平行链基本都是基于cumulus  
 
 ---
-## 代表性平行链
-* Acala
-* Moonbeam
-* Phala
-
----
 ## 先行者
 - Kusama
 - Rococo
@@ -301,6 +299,37 @@ https://www.parity.io/blog/
 
 ---
 ## 插槽拍卖和众贷
+
+---
+## 代表性平行链
+* Acala
+* Moonbeam
+* Phala
+
+---
+## Acala
+
+https://acala.network  
+
+Acala是Polkadot的一体式DeFi中心。Acala是一个兼容Ethereum的平台，供金融应用使用智能合约或内置协议，具有开箱即用的跨链能力和强大的安全性。  
+
+--- 
+
+![](https://acala.network/static/media/acala-cover-bg.265d7c21.png)  
+
+---
+## Moonbeam
+
+https://moonbeam.network  
+
+Moonbeam不仅仅是一个EVM的实现：它是一个高度专业化的1.5层链，反映了以太坊的Web3 RPC、账户、密钥、订阅、日志等。Moonbeam平台扩展了以太坊的基本功能集，具有额外的功能，如链上治理、抵押和跨链整合。  
+
+---
+## Phala
+
+https://phala.network/en/  
+
+Phala是一个Polkadot parachain，开发者可以在其他Polkadot parachain上调用并与保密合同进行互动  
 
 ---
 ## 黑客马拉松  
