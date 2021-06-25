@@ -32,8 +32,8 @@ By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="fals
 ---
 ### ink!
 
-- 以Rust语言为蓝本
-- 可以兼容WebAssembly
+- 以 Rust 为蓝本
+- 可以兼容 WebAssembly
 - 服务于 Substrate 构建的区块链
 - 智能合约
 
@@ -48,7 +48,7 @@ By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="fals
 
 ---
 ### 环境准备 Ubuntu
-```
+```bash
 sudo apt update
 sudo apt install -y git clang curl libssl-dev llvm libudev-dev
 ```
@@ -56,12 +56,12 @@ sudo apt install -y git clang curl libssl-dev llvm libudev-dev
 ---
 ### 环境准备 Mac
 安装 brew
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 安装 openssl
-```
+```bash
 brew update
 brew install openssl
 ```
@@ -69,14 +69,14 @@ brew install openssl
 ---
 ### Substrate 环境安装
 脚本安装方式
-```
+```bash
 curl https://getsubstrate.io -sSf | bash -s -- --fast
 ```
 
 ---
 ### Substrate 环境安装
 手动安装
-```
+```bash
 curl https://sh.rustup.rs -sSf | sh
 source ~/.cargo/env
 
@@ -90,20 +90,20 @@ rustup target add wasm32-unknown-unknown --toolchain nightly
 ---
 ### ink! cli 安装
 
-```
+```bash
 cargo install cargo-contract --vers ^0.12 --force --locked
 ```
 
 ---
 ### Canvas节点安装 (可选)
 
-```
+```bash
 cargo install canvas-node --git https://github.com/paritytech/canvas-node.git --tag v0.1.8 --force --locked
 ```
 
 ---
 ### Canvas Node启动 (可选)
-```
+```bash
 canvas --dev --tmp
 ```
 
