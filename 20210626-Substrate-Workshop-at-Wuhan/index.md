@@ -13,7 +13,7 @@ hideAddressBar: true
 
 # Editor settings
 editor:
-    fontSize: 14
+    fontSize: 10
     theme: solarized_light
     # keybinding: vim
 
@@ -57,7 +57,9 @@ sudo apt install -y git clang curl libssl-dev llvm libudev-dev
 ### 环境准备 Mac
 安装 brew
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/bash -c "$(curl -fsSL\
+https://raw.githubusercontent.com\
+/Homebrew/install/master/install.sh)"
 ```
 
 安装 openssl
@@ -95,14 +97,27 @@ cargo install cargo-contract --vers ^0.12 --force --locked
 ```
 
 ---
+### binaryen 安装
+
+* Debian/Ubuntu: `apt-get install binaryen`
+* Homebrew: `brew install binaryen`
+* Arch Linux: `pacman -S binaryen`
+* Windows: binary releases at https://github.com/WebAssembly/binaryen/releases
+
+---
 ### Canvas节点安装 (可选)
 
 ```bash
-cargo install canvas-node --git https://github.com/paritytech/canvas-node.git --tag v0.1.8 --force --locked
+cargo install canvas-node --git \
+https://github.com/paritytech/canvas-node.git \
+--tag v0.1.8 \
+--force \
+--locked
 ```
 
 ---
 ### Canvas Node启动 (可选)
+
 ```bash
 canvas --dev --tmp
 ```
@@ -113,13 +128,28 @@ canvas --dev --tmp
 https://paritytech.github.io/canvas-ui
 
 ---
+###  创建项目
+```bash
+cargo contract new erc20
+cd erc20
+```
 
+---
+### 测试
+```bash
+cargo +nightly test
+```
+
+---
+### 编译
+```bash
+cargo +nightly contract build
+```
 
 ---
 ### 相关信息
-https://substrate.dev/docs/en/knowledgebase/getting-started/  
-https://substrate.dev/substrate-contracts-workshop/#/  
+
+https://substrate.dev/substrate-contracts-workshop/  
 https://github.com/paritytech/canvas-node  
-https://github.com/paritytech/substrate/tree/master/frame/contracts  
-https://github.com/paritytech/cargo-contract  
 https://github.com/paritytech/canvas-ui  
+https://github.com/paritytech/cargo-contract  
