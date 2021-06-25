@@ -139,6 +139,17 @@ yarn start
 https://paritytech.github.io/canvas-ui
 
 ---
+### Polkadot JS Extension (可选)
+使用 Canvas UI 时，需要下载插件钱包
+https://polkadot.js.org/extension/
+
+创建对应的钱包
+
+---
+### 弄点钱
+需要从水龙头弄点测试币
+
+---
 ###  创建项目
 ```bash
 cargo contract new erc20
