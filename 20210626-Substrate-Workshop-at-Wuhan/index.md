@@ -24,23 +24,58 @@ editor:
 By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="false" >@Frozen</a> on Github
 
 ---
-### 环境准备
-Ubuntu
+- ink! 简介
+- 环境说明
+- 环境准备
+- ERC20示例
+
+---
+### ink!
+
+- 以Rust语言为蓝本
+- 可以兼容WebAssembly
+- 服务于 Substrate 构建的区块链
+- 智能合约
+
+---
+### 环境说明
+
+- Rust + Cargo
+- cargo-contract # ink! CLI
+- Substrate构建的区块链
+- 区块链激活 contracts pallet
+- Substrate UI
+
+---
+### 环境准备 Ubuntu
 ```
 sudo apt update
 sudo apt install -y git clang curl libssl-dev llvm libudev-dev
 ```
 
-Mac
+---
+### 环境准备 Mac
+安装 brew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+安装 openssl
+```
 brew update
 brew install openssl
 ```
 
 ---
-### Rust安装
+### Substrate 环境安装
+脚本安装方式
+```
+curl https://getsubstrate.io -sSf | bash -s -- --fast
+```
 
+---
+### Substrate 环境安装
+手动安装
 ```
 curl https://sh.rustup.rs -sSf | sh
 source ~/.cargo/env
@@ -53,14 +88,38 @@ rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
 
 ---
-### Canvas节点安装
+### ink! cli 安装
+
+```
+cargo install cargo-contract --vers ^0.12 --force --locked
+```
+
+---
+### Canvas节点安装 (可选)
 
 ```
 cargo install canvas-node --git https://github.com/paritytech/canvas-node.git --tag v0.1.8 --force --locked
 ```
 
 ---
-### 相关信息
-https://polkadot.network/PolkaDotPaper.pdf  
-https://polkadot.network/Polkadot-lightpaper.pdf  
+### Canvas Node启动 (可选)
+```
+canvas --dev --tmp
+```
 
+---
+### Canvas UI (可选)
+
+https://paritytech.github.io/canvas-ui
+
+---
+
+
+---
+### 相关信息
+https://substrate.dev/docs/en/knowledgebase/getting-started/  
+https://substrate.dev/substrate-contracts-workshop/#/  
+https://github.com/paritytech/canvas-node  
+https://github.com/paritytech/substrate/tree/master/frame/contracts  
+https://github.com/paritytech/cargo-contract  
+https://github.com/paritytech/canvas-ui  
