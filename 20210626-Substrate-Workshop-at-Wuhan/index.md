@@ -105,7 +105,7 @@ cargo install cargo-contract --vers ^0.12 --force --locked
 * Windows: binary releases at https://github.com/WebAssembly/binaryen/releases
 
 ---
-### Canvas节点安装 (可选)
+### Canvas Node 安装 (可选)
 
 ```bash
 cargo install canvas-node --git \
@@ -116,15 +116,26 @@ https://github.com/paritytech/canvas-node.git \
 ```
 
 ---
-### Canvas Node启动 (可选)
+### Canvas Node 启动 (可选)
 
 ```bash
 canvas --dev --tmp
+```
+or
+```bash
+canvas --chain=./res/testnet-1.json
 ```
 
 ---
 ### Canvas UI (可选)
 
+```bash
+git clone https://github.com/paritytech/canvas-ui.git
+yarn install
+yarn start
+```
+
+线上可用版本
 https://paritytech.github.io/canvas-ui
 
 ---
@@ -145,6 +156,10 @@ cargo +nightly test
 ```bash
 cargo +nightly contract build
 ```
+
+---
+### 演示
+
 
 ---
 ### 相关信息
