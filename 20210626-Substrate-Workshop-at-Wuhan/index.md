@@ -119,7 +119,7 @@ https://github.com/paritytech/canvas-node.git \
 ### Canvas Node 启动 (可选)
 
 ```bash
-canvas --dev --tmp
+canvas --dev --tmp --ws-external --rpc-external
 ```
 or
 ```bash
