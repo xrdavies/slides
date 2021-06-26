@@ -16,9 +16,12 @@ editor:
     fontSize: 10
     theme: solarized_light
     # keybinding: vim
-
 ---
+
+
+
 <!-- .slide: data-background="https://raw.githubusercontent.com/xrdavies/slides/main/20210523-8btc/bg_polkadot.png" -->
+
 ## ink! 合约初学者
 
 By <a href="https://github.com/xrdavies" target="_blank" data-preview-link="false" >@Frozen</a> on Github
@@ -148,6 +151,11 @@ https://polkadot.js.org/extension/
 ---
 ### 弄点钱
 需要从水龙头弄点测试币
+https://riot.im/app/#/room/#canvas_faucet:matrix.parity.io
+
+```
+drip!<地址>
+```
 
 ---
 ###  创建项目
